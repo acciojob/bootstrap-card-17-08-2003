@@ -4,10 +4,10 @@
 .card-header-1{
     height: 50px;
 }
-bg* .text-bg-danger{
+.text-bg-danger{
     color: grey;
 }
-.section-3{
+.card-deck{
     display: flex;
     margin: 10px;
 }
