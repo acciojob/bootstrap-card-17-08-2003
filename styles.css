@@ -1,2 +1,14 @@
-
+.card-body-1{
+    height:400px;
+}
+.card-header-1{
+    height: 50px;
+}
+bg* .text-bg-danger{
+    color: grey;
+}
+.section-3{
+    display: flex;
+    margin: 10px;
+}
 /* Your CSS Code here. */
